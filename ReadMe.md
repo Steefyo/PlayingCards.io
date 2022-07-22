@@ -106,3 +106,11 @@
 
 ### Demo:
 <img src="Shitty/Demo/Demo.Shitty.gif" style="width: 500px" />
+
+## [Shots and ladders](https://github.com/Steefyo/PlayingCards.io/raw/main/ShotsAndLadders/shots-and-ladders.pcio)
+
+### Players:
+- 12
+
+### Demo:
+<img src="ShotsAndLadders/Demo/Demo.ShotsAndLadders.gif" style="width: 500px" />
