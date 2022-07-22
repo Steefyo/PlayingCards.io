@@ -1,0 +1,11 @@
+label,give/take,shot_count,image,item-count,item-key
+5,Give,5 Shots,https://firebasestorage.googleapis.com/v0/b/playingcardsio.appspot.com/o/08e97934-3bb0-4690-bc29-bcef0dce2525.png?alt=media&token=5ce280b9-424e-4390-bccb-7a645bc9e886,10,type-b168bdbf-ea92-4fff-85bc-eb9dd1006f23
+5,Take,5 Shots,https://firebasestorage.googleapis.com/v0/b/playingcardsio.appspot.com/o/69c4e728-580f-448d-995a-e736c6b3f25e.png?alt=media&token=994cd4be-42be-490c-b524-f9f63ab6a836,10,type-2c915d22-aaed-40a6-bf68-add404ded095
+10 Shots,Give,10 Shots,https://firebasestorage.googleapis.com/v0/b/playingcardsio.appspot.com/o/08e97934-3bb0-4690-bc29-bcef0dce2525.png?alt=media&token=5ce280b9-424e-4390-bccb-7a645bc9e886,5,type-5a189b82-b11b-46c9-ae4f-00b4369fdc40
+10 Shots,Take,10 Shots,https://firebasestorage.googleapis.com/v0/b/playingcardsio.appspot.com/o/69c4e728-580f-448d-995a-e736c6b3f25e.png?alt=media&token=994cd4be-42be-490c-b524-f9f63ab6a836,5,type-720e6112-2c58-45f7-866d-ba4ec2a211c7
+15 Shots,Give,15 Shots,https://firebasestorage.googleapis.com/v0/b/playingcardsio.appspot.com/o/08e97934-3bb0-4690-bc29-bcef0dce2525.png?alt=media&token=5ce280b9-424e-4390-bccb-7a645bc9e886,3,type-61e29f10-1d6c-4a2b-a77e-b8ccc3c92d2c
+15 Shots,Take,15 Shots,https://firebasestorage.googleapis.com/v0/b/playingcardsio.appspot.com/o/69c4e728-580f-448d-995a-e736c6b3f25e.png?alt=media&token=994cd4be-42be-490c-b524-f9f63ab6a836,3,type-7f5b0903-6104-409b-9bc9-e967ab0be7bc
+20 Shots,Give,20 Shots,https://firebasestorage.googleapis.com/v0/b/playingcardsio.appspot.com/o/08e97934-3bb0-4690-bc29-bcef0dce2525.png?alt=media&token=5ce280b9-424e-4390-bccb-7a645bc9e886,2,type-fb6542f3-c56a-4da2-89f6-903a78fcb6e8
+20 Shots,Take,20 Shots,https://firebasestorage.googleapis.com/v0/b/playingcardsio.appspot.com/o/69c4e728-580f-448d-995a-e736c6b3f25e.png?alt=media&token=994cd4be-42be-490c-b524-f9f63ab6a836,2,type-b4c3d978-f484-4d85-a5c7-503d48acb0e1
+?,Give Roll,?,https://firebasestorage.googleapis.com/v0/b/playingcardsio.appspot.com/o/08e97934-3bb0-4690-bc29-bcef0dce2525.png?alt=media&token=5ce280b9-424e-4390-bccb-7a645bc9e886,2,type-65d8ed94-b72c-47fe-af63-560e86453116
+?,Take Roll,?,https://firebasestorage.googleapis.com/v0/b/playingcardsio.appspot.com/o/69c4e728-580f-448d-995a-e736c6b3f25e.png?alt=media&token=994cd4be-42be-490c-b524-f9f63ab6a836,2,type-e4c0f3ef-12fd-49a8-92f1-6b2c15cffe97
