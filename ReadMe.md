@@ -1,4 +1,4 @@
 # PlayingCard.io Games (selfmade)
 
 ## Bet Yah Shot
-<img scr="Demo/Demo.BetYahShot.1.png" />
+<img src="BetYahShot/Demo/Demo.BetYahShot.1.png" style="width: 500px" />
