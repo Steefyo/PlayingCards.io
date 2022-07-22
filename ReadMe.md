@@ -62,3 +62,11 @@
 
 ### Demo:
 <img src="CampBlood/Demo/Demo.CampBlood.gif" style="width: 500px" />
+
+## [Liverkiller 1](https://github.com/Steefyo/PlayingCards.io/raw/main/Liverkiller1/liverkiller-part-1.pcio)
+
+### Players:
+- 12
+
+### Demo:
+<img src="Liverkiller1/Demo/Demo.Liverkiller-1.gif" style="width: 500px" />
