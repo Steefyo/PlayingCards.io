@@ -70,3 +70,22 @@
 
 ### Demo:
 <img src="Liverkiller1/Demo/Demo.Liverkiller-1.gif" style="width: 500px" />
+
+## [Race](https://github.com/Steefyo/PlayingCards.io/raw/main/Race/race.pcio)
+
+### Cards:
+- 4 A's ( aka players )
+- 1 Small deck A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K
+- 1 Big deck A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K
+
+### Players:
+- 8
+
+### Rules:
+- Player bets a type ( Clubs, Diamond, Harts, Spades )
+- Each turn the card moves with the correct type
+- The small cards only gets revealed when all the cards have passed it
+- The type card is the small card it moves one back
+
+### Demo:
+<img src="Race/Demo/Demo.Race.gif" style="width: 500px" />
