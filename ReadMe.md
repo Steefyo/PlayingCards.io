@@ -19,7 +19,7 @@
 - ? card means roll
 
 ### Demo:
-<img src="BetYahShot/Demo/Demo.BetYahShot.1.png" style="width: 500px" />
+<img src="BetYahShot/Demo/Demo.BetYahShot.gif" style="width: 500px" />
 
 ## Bus
 <img src="Bus/Demo/Demo.Bus.1.png" style="width: 500px" />
