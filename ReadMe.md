@@ -89,3 +89,20 @@
 
 ### Demo:
 <img src="Race/Demo/Demo.Race.gif" style="width: 500px" />
+
+## [Shitty](https://github.com/Steefyo/PlayingCards.io/raw/main/Shitty/shitty.pcio)
+
+### Cards:
+- 4 decks A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K
+
+### Players:
+- 15
+
+### Rules:
+- Player chooses Red or Black
+- Player chooses Higher or Lower
+- Player chooses Inside or Outside
+- Player chooses a suit
+
+### Demo:
+<img src="Shitty/Demo/Demo.Shitty.gif" style="width: 500px" />
