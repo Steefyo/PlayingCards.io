@@ -3,10 +3,10 @@
 ## [Bet Yah Shot](https://github.com/Steefyo/PlayingCards.io/raw/main/BetYahShot/bet-yah-shot.pcio)
 
 ### Cards:
-- 5x
-- Bday
-- Modnar
-- Spliff
+- ( 44 cards ) 5x
+- ( 52 cards ) Bday
+- ( 75 cards ) Modnar
+- ( 46 cards ) Spliff
 
 ### Players:
 - 12
