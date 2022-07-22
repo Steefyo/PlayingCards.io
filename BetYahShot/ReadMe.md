@@ -17,4 +17,4 @@
 - ? card means roll
 
 ### Demo:
-<img src="Demo/Demo.BetYahShot.1.png" style="width: 500px" />
+<img src="Demo/Demo.BetYahShot.gif" style="width: 500px" />
