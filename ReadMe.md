@@ -44,5 +44,21 @@
 ### Demo:
 <img src="Bus/Demo/Demo.Bus.gif" style="width: 500px" />
 
-## Camp blood
-<img src="CampBlood/Demo/Demo.CampBlood.1.png" style="width: 500px" />
+## [Camp blood](https://github.com/Steefyo/PlayingCards.io/raw/main/CampBlood/camp-blood.pcio)
+
+### Cards:
+- 1 Jason
+- 4 Camps
+- 8 Face cards ( Q, K )
+
+### Players:
+- 8
+
+### Rules:
+- Place your card on one of the available cabins
+- If Jason in the cabin you lose
+- Each round the amount of cabins reduce
+- Game goes on till there is one survivor or everyone is dead
+
+### Demo:
+<img src="CampBlood/Demo/Demo.CampBlood.gif" style="width: 500px" />
