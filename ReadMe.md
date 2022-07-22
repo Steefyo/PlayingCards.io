@@ -18,6 +18,7 @@
 - Cards get revealed ( aka drink )
 - ? card means roll
 
+### Demo:
 <img src="BetYahShot/Demo/Demo.BetYahShot.1.png" style="width: 500px" />
 
 ## Bus
