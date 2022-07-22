@@ -11,6 +11,13 @@
 ### Players:
 - 12
 
+### Rules:
+- Mode gets picked ( 5x, bday, modnar, spliff, ect )
+- Everyone receives pucks
+- Place your pucks on the cards
+- Cards get revealed ( aka drink )
+- ? card means roll
+
 <img src="BetYahShot/Demo/Demo.BetYahShot.1.png" style="width: 500px" />
 
 ## Bus
