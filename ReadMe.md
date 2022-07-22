@@ -1,4 +1,4 @@
-# PlayingCard.io Games (selfmade)
+# PlayingCard.io Games
 
 ## [Bet Yah Shot](https://github.com/Steefyo/PlayingCards.io/raw/main/BetYahShot/bet-yah-shot.pcio)
 
