@@ -85,10 +85,16 @@
 - 8
 
 ### Rules:
-- Player bets a type ( Clubs, Diamond, Harts, Spades )
-- Each turn the card moves with the correct type
+- Player bets a suit ( Clubs, Diamond, Harts, Spades ) to drink with
+- Player bets a suit ( Clubs, Diamond, Harts, Spades ) which wins
+- Each turn the card moves with the corresponding suit
 - The small cards only gets revealed when all the cards have passed it
-- The type card is the small card it moves one back
+- The suit of the small card decides which card moves one back
++ At the end of the game:
++ #1 Gives 20 shots
++ #2 Gives 10 shots
++ #3 Does nothing
++ #4 Rolls the dice
 
 ### Demo:
 <img src="Race/Demo/Demo.Race.gif" style="width: 500px" />
