@@ -2,6 +2,8 @@
 
 ## Todo:
 - [Labyrinth](https://virtualtabletop.io/)
+- [CAH]
+- [Beat the dealer]
 
 ## [Bet Yah Shot](https://github.com/Steefyo/PlayingCards.io/raw/main/BetYahShot/bet-yah-shot.pcio)
 
