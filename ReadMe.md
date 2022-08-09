@@ -8,7 +8,7 @@
 ### Cards:
 - ( 44 cards ) 5x
 - ( 52 cards ) Bday
-- ( 75 cards ) Modnar
+- ( 80 cards ) Modnar
 - ( 46 cards ) Spliff
 
 ### Players:
